@@ -44,26 +44,29 @@ Glass 会在您的时间轴卡片的不同位置以不同大小显示您的图�
 
 ![50x50 图标](https://developers.google.com/glass/images/icons/g-50.png)
 
-#### 150x150，用于激活 Glassware 时发送到您的用户的卡片
+#### 150x150，用于激活 Glassware 时发送给您的用户的卡片
 
 ![150x150 图标](https://developers.google.com/glass/images/icons/g-150.png)
 
-######提供 40x40 和 85x85 像素的画廊图标
+### 提供 40x40 和 85x85 像素的展示图标
 
-MyGlass 网站在用户的各个界面显示你的品牌图标，确保你的图标:
+MyGlass 网站会在多个地方向用户展示您的品牌标志，请确保您的图标：
 
-* 代表你的品牌
-* 除了大小其他是相同的
-* 白色或者透明背景
+- 代表您的品牌
+- 除了大小外保持一致
+- 主体彩色，背景为白色或透明
 
-######提供一个640x360 贴图图标
-MyGlass 将会一直使用这个图标和你的Glassware名字，，20x20图标和你的标志创建一张贴图在MyGlass上显示
+### 提供一个 640x360 卡片图标
 
-######初始图标
-![original icone](https://developers.google.com/glass/images/icons/g-640-360-tile.png)
+MyGlass 会使用该图标和您的 Glassware 名称、20x20 图标以及您的[标志色](#brand-color)一同创建一张用于在 MyGlass 展示的卡片。
 
-######MyGlass 贴图
-![MyGlass tile](https://developers.google.com/glass/images/icons/tile-with-icon.png)
+#### 原始图标
+
+![原始图标](https://developers.google.com/glass/images/icons/g-640-360-tile.png)
+
+#### MyGlass 卡片
+
+![MyGlass 卡片](https://developers.google.com/glass/images/icons/tile-with-icon.png)
 
 ###### 提供一种logo的主色调
 Glass 使用这种颜色来显示你的20x20和40x40的logo图标在不同情况下，颜色必须是十六进制(比如,#556677)
