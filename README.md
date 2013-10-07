@@ -170,41 +170,41 @@ Glassware 的描述将出现在 MyGlass 网站上，并告诉用户您的服务�
 
 - 图标为全白主题、透明背景
 - 图标为 50x50 像素，并能表达它的作用
-- 如果您想和 Glass UI 保持一直，请使用 [Glass 菜单图标](https://developers.google.com/glass/downloads/menu-icons-50.zip)
+- 如果您想和 Glass UI 保持一致，请使用 [Glass 菜单图标](https://developers.google.com/glass/downloads/menu-icons-50.zip)
 - 使用简短可操作的菜单项的显示名称。祈使动词接或不接宾语会有不错的效果，比如下面的例子：
 
-  ![Google](https://developers.google.com/glass/images/glass-screens/google.png)
-  ![拍照](https://developers.google.com/glass/images/glass-screens/take-a-picture.png)
-  ![录视频](https://developers.google.com/glass/images/glass-screens/record-a-video.png)
+![Google](https://developers.google.com/glass/images/glass-screens/google.png)
+![拍照](https://developers.google.com/glass/images/glass-screens/take-a-picture.png)
+![录视频](https://developers.google.com/glass/images/glass-screens/record-a-video.png)
 
 ### 避免没有明确用途的删除菜单项
 
-如果存在相关的不在 Glass 上的内容（比如一张分享出去的照片），则**删除**是可以接受的。如果您使用**删除**，请将它用于同时删除 Glass 上的时间轴卡片和您的服务器上的相关内容。
+对于脱离 Glass 的相关内容（比如一张分享出去的照片），**删除**是可被接受的。**删除** 功能应当被用于删除 Glass 时间轴卡片的同时删除您的服务器上的相关内容。
 
 ## 集合和分页
 
-### 适当地使用集合
+### 适当使用集合
 
-- 将集合用于类似但不应在同一张卡片上的一组卡片。举个例子，将最近几个小时的一组新闻故事或体育比分组成一个集合
-- 集合的封面卡片应当设计简介，并且视觉上不同于集合内的其它卡片
+- 将集合用于相似但不应在同一张卡片上的一组卡片。举个例子，最近几个小时的一组新闻故事或体育比分组成的一个集合
+- 集合的封面卡片设计应当力求简洁，且视觉上不同于集合内的其它卡片
 - 每个集合只发出一次通知用户的提示音
 
-### 正确地使用分页
+### 正确使用分页
 
-- 将分页用于因空间限制不能容纳在一张卡片上的时间轴卡片。举个例子，对一封电子邮件或新闻故事等跨越多张卡片的内容使用分页。
+- 将分页用于因空间限制一张卡片不足以容纳的内容。举个例子，对一封电子邮件或新闻故事等跨越多张卡片的内容使用分页。
 
 ## 分享联系人
 
-### 尽可能创建一个简短但具备描述性的联系人
+### 尽可能创建一个简短但描述清晰的联系人
 
-- 省略联系人的显示名称上的冗余信息，比如您的品牌名称
-- 为联系人创建一张 640x360 像素的内容充实的图像
+- 省略联系人显示名称上的冗余信息，比如您的品牌名称
+- 为联系人创建一张 640x360 像素的充实图像
 - 如果您需要多个联系人，请确保它们在逻辑上是不同的、可区分的
 
-### 在分享内容中添加适当的元数据
+### 在分享内容中添加合适的元数据
 
-- 给可分类的分享内容加上「throughglass」
-- 给从 Glass 分享、但不要求分类的内容加上「Sent through Glass」
+- 给可分类的分享内容加上「throughglass」分类
+- 给从 Glass 分享、但不要求分类的内容加上「Sent through Glass」字样
 
 ### 声明合适的内容 MIME 类型
 
