@@ -1,19 +1,20 @@
-###Glassware 发布前自检
-####编者语
-######文档相关
-* Glassware 是Glass 软件的专有名词
-* 这是Google Glass 软件开发中的相关标准被规定，发布Glassware的时候应遵循这份文档的标准，要不可能通不过google的审核
-* 由于文化和理解上的差异，译文中可能存在纰漏，望各位读者提出宝贵的意见
+Glassware 发布规范
+==========
 
-######关于我们
-*我们是国内第一支从事Glass的开发的团队(Bestapp/BestNG)，致力于开发，本土化Glass,同事共享我们的研究成果和新鲜好玩的Glass本土应用，更多信息请移步[GlassX](http://www.glassx.cn/),欢迎各位加入到我们的行列.
-
-翻译: BestNG -Jason Wu Email: cn.jason.wu@gmail.com
-校对: BestNG -
-
-
-
-
+> #### 关于本文档
+> - **Glassware** 是 Google Glass 应用的专有名词
+> - 这是 Glassware 的开发规范，只有符合规范的 Glassware 才能上架官方的 MyGlass 推荐
+> - 由于文化和理解上的差异，译文中难免存在纰漏，望各位提出宝贵的意见
+> 
+> #### 关于我们
+> 我们（BestApp/BestNG）是国内第一支从事 Glassware 开发的团队，致力于 Glassware 的开发和 Glass 的本土化工作，同时尽可能向社区回馈我们的研究成果和新鲜好玩本土 Glassware。
+>
+> 更多信息请移步 [GlassX](http://www.glassx.cn/)，欢迎加入到我们的行列。
+>
+> - 翻译：[Jason Wu](cn.jason.wu@gmail.com)(BestNG)
+> - 校对：[XiNGRZ](chenxingyu92@gmail.com)(BestNG)
+>
+> 原文地址：https://developers.google.com/glass/distributing/checklist
 
 ####图片样式
 
