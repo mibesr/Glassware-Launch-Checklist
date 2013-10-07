@@ -155,18 +155,22 @@ Glassware 的描述将出现在 MyGlass 网站上，并告诉用户您的服务�
   - 视频：H.264 baseline 和 H.263 baseline
   - 音频：AAC 和 MP3
 
-####菜单
-######创建合适的菜单图标以及文字
-* 图标是完全白色或者透明背景
-* 使用50x50像素和描述执行的行为
-* 使用[Glass menu icons](https://developers.google.com/glass/downloads/menu-icons-50.zip)如果你想符合GlassUI标准
-* 使用简短和可操作的菜单项的显示名字，动词祈使句看起来很棒，像以下例子
-![menu item one](https://developers.google.com/glass/images/glass-screens/google.png)
-![menu item two](https://developers.google.com/glass/images/glass-screens/take-a-picture.png)
-![menu item three](https://developers.google.com/glass/images/glass-screens/record-a-video.png)
+## 菜单
 
-#####避免没有明确使用的删除菜单
-删除是可以接受的如果有相关Glassware操作(比如:照片分享).如果你使用删除，在Glass上删除timeline项和在你的服务器上进行相关操作
+### 创建合适的菜单图标和文字
+
+- 图标为全白主题、透明背景
+- 图标为 50x50 像素，并能表达它的作用
+- 如果您想和 Glass UI 保持一直，请使用 [Glass 菜单图标](https://developers.google.com/glass/downloads/menu-icons-50.zip)
+- 使用简短可操作的菜单项的显示名称。祈使动词接或不接宾语会有不错的效果，比如下面的例子：
+
+![Google](https://developers.google.com/glass/images/glass-screens/google.png)
+![拍照](https://developers.google.com/glass/images/glass-screens/take-a-picture.png)
+![录视频](https://developers.google.com/glass/images/glass-screens/record-a-video.png)
+
+### 避免没有明确用途的删除菜单项
+
+如果存在相关的不在 Glass 上的内容（比如一张分享出去的照片），则**删除**是可以接受的。如果您使用**删除**，请将它用于同时删除 Glass 上的时间轴卡片和您的服务器上的相关内容。
 
 ####集合和分页
 ######适当得使用包
