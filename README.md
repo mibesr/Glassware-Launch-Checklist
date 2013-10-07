@@ -68,8 +68,10 @@ MyGlass 会使用该图标和您的 Glassware 名称、20x20 图标以及您的[
 
 ![MyGlass 卡片](https://developers.google.com/glass/images/icons/tile-with-icon.png)
 
-###### 提供一种logo的主色调
-Glass 使用这种颜色来显示你的20x20和40x40的logo图标在不同情况下，颜色必须是十六进制(比如,#556677)
+<div id="brand-color"></div>
+#### 提供一个标志色
+
+Glass 使用这个颜色来在不同场景展示您的 20x20 和 40x40 标志。颜色必须为十六进制（比如 #556677）。
 
 ######提供Glassware的屏幕截图
 告诉用户你的Glassware是怎么使用的，提供一张Glassware的屏幕截图以及一张在使用中的屏幕截图。MyGlass结合两张图片创建一个插图当做屏幕截图用于显示你的Glassware。
