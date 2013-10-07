@@ -1,5 +1,3 @@
-Glassware 发布规范
-==========
 
 > #### 关于本文档
 >
@@ -17,6 +15,13 @@ Glassware 发布规范
 > - 校对：[XiNGRZ](chenxingyu92@gmail.com)(BestNG)
 >
 > 原文地址：https://developers.google.com/glass/distributing/checklist
+
+Glassware 发布审核规范
+==========
+
+我们团队（译注：指 Google Glass 团队）在审核您的 Glassware 时会关心下列项目和其它因素。在提交审核前请确保您的 Glassware 符合下列所有要求，这将有助于我们团队专注于您的 Glassware 的其它部分以提高审核效率。
+
+> **注意：**有些素材要在未来版本的 MyGlass 中才会用到，但现在提供它们能让您的 Glassware 预备好这次更新。
 
 ## 图片素材
 
