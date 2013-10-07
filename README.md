@@ -203,13 +203,14 @@ Glassware 的描述将出现在 MyGlass 网站上，并告诉用户您的服务�
 
 ## 网站
 
-如果你的Glassware和产品有一个相关的网站，请遵循以下指导标准
-* 使用 [Send to Glass](https://developers.google.com/glass/downloads/send-to-glass-buttons.zip) 图标如果从网站上推送内容到Glass
-* 确保正确地语法和拼写
-* 如果提供 "More info"链接在MyGlass上，链接到网页和Glassware的特定信息例如Glassware的支持或者提示，不要链接到通用产品信息
-* 在你的网站上不提供Glassware的取消授权，取消授权只能是在MyGlass上.
+如果您的 Glassware 和产品有相应的网站，请遵循下列指引：
 
-####Glassware 设置
+- 如果要从网站发送内容到 Glass，使用 [Send to Glass](https://developers.google.com/glass/downloads/send-to-glass-buttons.zip) 图标
+- 确保正确的语法和拼写
+- 如果在 MyGlass 上提供「More info」URL，则应当链接到和 Glassware 相关的信息的网页上，比如 Glassware 的技术支持或提示，而不是链接到常规的产品信息。
+- 不要再您的网站上提供取消 Glassware 授权的功能。取消授权应当只能在 MyGlass 上进行
+
+## Glassware 设置
 
 提供简单的方法调整和授权Glassware
 
@@ -225,13 +226,3 @@ Glassware 的描述将出现在 MyGlass 网站上，并告诉用户您的服务�
 * 显示更新的频率和订阅数量。下面截图是一个例子，允许用户设置更新时间频率和订阅类型
 
 ![cnn](https://developers.google.com/glass/images/cnn-settings.png)
-
-
-
-
-
-
-
-
-
-
