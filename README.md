@@ -68,28 +68,35 @@ MyGlass 会使用该图标和您的 Glassware 名称、20x20 图标以及您的[
 
 ![MyGlass 卡片](https://developers.google.com/glass/images/icons/tile-with-icon.png)
 
-#### 提供一个标志色
+### 提供一个标志色
 
 Glass 使用这个颜色来在不同场景展示您的 20x20 和 40x40 标志。颜色必须为十六进制（比如 #556677）。
 
-######提供Glassware的屏幕截图
-告诉用户你的Glassware是怎么使用的，提供一张Glassware的屏幕截图以及一张在使用中的屏幕截图。MyGlass结合两张图片创建一个插图当做屏幕截图用于显示你的Glassware。
+### 提供 Glassware 的截图
 
-* 上下文图片必须是2528x1856像素，这是Glass的相机分辨率
-* Glassware 屏幕	截图必须是640x360像素分辨率，这是Glass的显示屏分辨率
-* 你必须至少提交一张插图，最多提交5张
+为了向用户展示您的 Glassware 是怎么使用的，您需要提供一张 Glassware 的截图，以及截图所展示的情景的一个例子。MyGlass 将结合两张图片来创建一张插图，作为您的 Glassware 的截图。
 
-######背景图片和Glassware屏幕截图
-![context image](https://developers.google.com/glass/images/icons/context-640.jpg)
-![application image](https://developers.google.com/glass/images/icons/traffic.png)
+- 情景图片必须为 2528x1856 像素，也就是 Glass 相机的分辨率
+- Glassware 的截图必须为 640x360 像素，也就是 Glass 的显示分辨率
+- 你必须提交一至五张插图
 
-######最终的MyGlass插图，下半部分已经裁剪
-![vignette](https://developers.google.com/glass/images/icons/vignette-640.jpg)
+#### 情景图片和 Glassware 截图
 
-####商标
-######避免额外的商标出现在个人的timeline 卡片上
-Glassware 将会显示你的30x30像素的品牌logo在timeline 卡片的底部
-######写一个好的关于Glassware的描述
+![情景图片](https://developers.google.com/glass/images/icons/context-640.jpg)
+![截图](https://developers.google.com/glass/images/icons/traffic.png)
+
+#### MyGlass 的最终插图，已裁剪下半部分
+
+![插图](https://developers.google.com/glass/images/icons/vignette-640.jpg)
+
+### 标志
+
+#### 避免单独的时间轴卡片上出现多于的标志
+
+Glass 会自动在时间轴卡片底部显示您的 30x30 像素的品牌标志
+
+#### 写一个好的 Glassware 描述
+
 Glassware的描述将会出现在MyGlass 网站上告诉用户你提供什么服务:
 
 * 用一句精简的话描述你的Glassware
