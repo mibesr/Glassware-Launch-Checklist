@@ -31,7 +31,7 @@ Glass 会在您的时间轴卡片的不同位置以不同大小显示您的图�
 
 以下是 Glass 使用您的图标的几种形式：
 
-#### 20x40 / 40x40，以你的[标志色](#brand-color)为底色	
+#### 20x40 / 40x40，以你的[标志色](#提供一个标志色)为底色	
 
 ![20x20 图标](https://developers.google.com/glass/images/icons/g-20.png)
 ![40x40 图标](https://developers.google.com/glass/images/icons/g-40.png)
@@ -58,7 +58,7 @@ MyGlass 网站会在多个地方向用户展示您的品牌标志，请确保您
 
 ### 提供一个 640x360 卡片图标
 
-MyGlass 会使用该图标和您的 Glassware 名称、20x20 图标以及您的[标志色](#brand-color)一同创建一张用于在 MyGlass 展示的卡片。
+MyGlass 会使用该图标和您的 Glassware 名称、20x20 图标以及您的[标志色](#提供一个标志色)一同创建一张用于在 MyGlass 展示的卡片。
 
 #### 原始图标
 
@@ -68,7 +68,6 @@ MyGlass 会使用该图标和您的 Glassware 名称、20x20 图标以及您的[
 
 ![MyGlass 卡片](https://developers.google.com/glass/images/icons/tile-with-icon.png)
 
-<div id="brand-color"></div>
 #### 提供一个标志色
 
 Glass 使用这个颜色来在不同场景展示您的 20x20 和 40x40 标志。颜色必须为十六进制（比如 #556677）。
