@@ -4,12 +4,12 @@ Glassware 发布规范
 > #### 关于本文档
 >
 > - **Glassware** 是 Google Glass 应用的专有名词
-> - 这是 Glassware 的开发规范，只有符合规范的 Glassware 才能上架官方的 MyGlass 推荐
+> - 本文是 Glassware 的开发规范，只有符合规范的 Glassware 才能上架官方的 MyGlass 展示区
 > - 由于文化和理解上的差异，译文中难免存在纰漏，望各位提出宝贵的意见
 > 
 > #### 关于我们
 >
-> 我们（BestApp/BestNG）是国内第一支从事 Glassware 开发的团队，致力于 Glassware 的开发和 Glass 的本土化工作，同时尽可能向社区回馈我们的研究成果和新鲜好玩本土 Glassware。
+> 我们（BestApp/BestNG）是国内第一支从事 Glass 开发的团队，致力于 Glassware 开发和 Glass 的本土化工作，同时尽可能向社区回馈我们的研究成果和新鲜好玩的本土 Glassware。
 >
 > 更多信息请移步 [GlassX](http://www.glassx.cn/)，欢迎加入到我们的行列。
 >
