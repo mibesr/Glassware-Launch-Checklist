@@ -118,17 +118,21 @@ Glassware 的描述将出现在 MyGlass 网站上，并告诉用户您的服务�
 - 尽可能使用[模拟器](https://developers.google.com/glass/playground)上提供的模板
 - 如果您使用自定义 HTML：
   - 确保您遵循[标准边距要求](https://developers.google.com/glass/ui-guidelines#displaying_your_own_custom_html)
-  - 对大于 30 像素的文本（主要内容）使用 Roboto Thin 字体，对小于或等于 30 像素的文本（脚注）使用 Roboto Light 字体
+  - 对大于 30 像素的文本（主要内容）使用 Roboto Thin 字体，对小于或等于 30 像素的文本（底部）使用 Roboto Light 字体
   - 使用[标准 Glass CSS 文件](https://mirror-api-playground.appspot.com/assets/css/base_style.css)中提供的颜色
 
-######保持页脚的中间空白
-“ok glass”的相关语音指令菜单将出现在底部的中间区域和一些相关的内容在卡片的下方
+### 保持底部中间空白
+
+**ok glass** 上下文语音菜单会出现在底部区域的中间，并挡住它后面的任何内容。
+
 ![ok glass](https://developers.google.com/glass/images/glass-screens/contextual-voice.png)
 
-######不要使用一张固定的timeline卡片作为Glassware的程序入口
-如果你需要一个新的语音指令来解决这个问题，请[提交请求](https://services.google.com/fb/forms/glassvoicecommand/)
+### 不要一张固定的时间轴卡片作为 Glassware 的启动入口
 
-####内容
+如果您需要一个新的语音指令来解决这个问题，请[提交请求](https://services.google.com/fb/forms/glassvoicecommand/)。
+
+## 内容
+
 ######尽可能使用图片而不是文字
 如果可能，使图片全屏(640x360像素)或左列(240x360像素)代替文字。图片应保持原有的宽高比例。
 ######保持信息简洁
