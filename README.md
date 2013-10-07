@@ -91,26 +91,27 @@ Glass 使用这个颜色来在不同场景展示您的 20x20 和 40x40 标志。
 
 ### 标志
 
-#### 避免单独的时间轴卡片上出现多于的标志
+#### 避免单独的时间轴卡片上出现多余的标志
 
 Glass 会自动在时间轴卡片底部显示您的 30x30 像素的品牌标志
 
 #### 写一个好的 Glassware 描述
 
-Glassware的描述将会出现在MyGlass 网站上告诉用户你提供什么服务:
+Glassware 的描述将出现在 MyGlass 网站上，并告诉用户您的服务是干什么的：
 
-* 用一句精简的话描述你的Glassware
-* 提供一个800字以内的详细描述.MyGlass显示这些描述在你的Glassware的更多信息上，别复制你的断描述在这里
-* 在适当的地方展示Glassware的特性
-* 不能包含MyGlass 或者GlassUI 的工作原理的文字
-* 如实描述你的Glassware的功能
-* 不能包含未注册商标的宣传材料
-* Glassware是Glass软件的专业术语，而不是应用软件
+- 提供您的 Glassware 的一句话简短描述
+- 提供您的 Glassware 的一段稍长、不多于 800 字的描述。MyGlass 会将该描述作为更多信息显示在您的 Glassware 上。请勿重复之前的简短描述。
+- 表明该 Glassware 是干什么的，以及任何只有 Glass 才有的特性
+- 不要包含任何关于 MyGlass 或 Glass UI 使用方式的文字
+- 如实描述您的 Glassware 的功能
+- 不要包含未注册商标的宣传材料
+- 使用「Glassware」指代为 Glass 设计的软件，而不是「app」
 
-#####遵守Glass的品牌设计指导
-你的Glassware应遵循Glass品牌设计指导，详见[Glass Brand Guidelines](https://developers.google.com/glass/brand-guidelines)
+### 遵守 Glass 商标指引
 
-####设计
+你的 Glassware 应当遵守 [Glass 商标指引](https://developers.google.com/glass/brand-guidelines)。
+
+## 设计
 
 #####在卡片上应遵循以下标准
 ######如果你使用自定义HTML
