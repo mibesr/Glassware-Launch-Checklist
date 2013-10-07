@@ -184,22 +184,25 @@ Glassware 的描述将出现在 MyGlass 网站上，并告诉用户您的服务�
 
 - 将分页用于因空间限制不能容纳在一张卡片上的时间轴卡片。举个例子，对一封电子邮件或新闻故事等跨越多张卡片的内容使用分页。
 
-### 分享联系人
+## 分享联系人
 
-######尽可能创建一个简要的描述在分享联系人的时候
+### 尽可能创建一个简短但具备描述性的联系人
 
-* 省略冗余的信息在分享联系人时所显示的，如你的品牌名称
-* 为联系人创建一个丰富的图片，图片像素为640x360像素。
-* 如果分享多个联系人，确保他们在逻辑上是不同的，可区分的
+- 省略联系人的显示名称上的冗余信息，比如您的品牌名称
+- 为联系人创建一张 640x360 像素的内容充实的图像
+- 如果您需要多个联系人，请确保它们在逻辑上是不同的、可区分的
 
-######添加适当的元数据在共享内容的时候
-* 添加“throughglass“”分类共享内容
-* 在从Glass分享内容的时候添加"Sent through Glass"，不强求分类
+### 在分享内容中添加适当的元数据
 
-#####适当声明内容的MIME类型
-你的联系人有可能不能接受所有类型的内容，声明你的联系人有效的支持类型和‘[acceptTypes](https://developers.google.com/glass/reference/contacts#acceptTypes)'属性
+- 给可分类的分享内容加上「throughglass」
+- 给从 Glass 分享、但不要求分类的内容加上「Sent through Glass」
 
-####网站
+### 声明合适的内容 MIME 类型
+
+您的联系人可能不应当接受所有类型的内容。使用 [`acceptTypes`](https://developers.google.com/glass/reference/contacts#acceptTypes) 属性表明您的联系人支持的有效类型。
+
+## 网站
+
 如果你的Glassware和产品有一个相关的网站，请遵循以下指导标准
 * 使用 [Send to Glass](https://developers.google.com/glass/downloads/send-to-glass-buttons.zip) 图标如果从网站上推送内容到Glass
 * 确保正确地语法和拼写
