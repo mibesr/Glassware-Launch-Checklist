@@ -129,13 +129,16 @@ Glassware 的描述将出现在 MyGlass 网站上，并告诉用户您的服务�
 
 ### 不要一张固定的时间轴卡片作为 Glassware 的启动入口
 
-如果您需要一个新的语音指令来解决这个问题，请[提交请求](https://services.google.com/fb/forms/glassvoicecommand/)。
+如果您需要一个新的语音指令来解决这个问题，请[提交申请](https://services.google.com/fb/forms/glassvoicecommand/)。
 
 ## 内容
 
 ### 尽可能使用图片而不是文字
 
-如果可能，使用全屏（640x360 像素）或左半幅（240x360 像素）的图片代替文字。图片应保持原有的宽高比例。
+如果可能，使用满屏（640x360 像素）或左半幅（240x360 像素）的图片代替文字。图片应保持原有的宽高比例。
+
+![满屏图片](https://developers.google.com/glass/images/glass-screens/hybrid_bundle_flowers_1_640.png)
+![半幅图片](https://f.cloud.github.com/assets/288288/1279292/dfce6b30-2f33-11e3-89f0-1d9cbb7eb9a9.png)
 
 ### 保持信息简洁
 
