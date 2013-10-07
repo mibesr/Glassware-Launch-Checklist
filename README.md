@@ -1,23 +1,24 @@
-
 Glassware 发布审核规范
 ==========
 
-> #### 关于本文档
->
-> - **Glassware** 是 Google Glass 应用的专有名词
-> - 本文是 Glassware 的开发规范，只有符合规范的 Glassware 才能上架官方的 MyGlass 展示区
-> - 由于文化和理解上的差异，译文中难免存在纰漏，望各位提出宝贵的意见
-> 
-> #### 关于我们
->
-> 我们（BestApp/BestNG）是国内第一支从事 Glass 开发的团队，致力于 Glassware 开发和 Glass 的本土化工作，同时尽可能向社区回馈我们的研究成果和新鲜好玩的本土 Glassware。
->
-> 更多信息请移步 [GlassX](http://www.glassx.cn/)，欢迎加入到我们的行列。
->
-> - 翻译：[Jason Wu](cn.jason.wu@gmail.com)(BestNG)
-> - 校对：[XiNGRZ](chenxingyu92@gmail.com)(BestNG)
->
-> 原文地址：https://developers.google.com/glass/distributing/checklist
+#### 关于本文档
+
+- **Glassware** 是 Google Glass 应用的专有名词
+- 本文是 Glassware 的开发规范，只有符合规范的 Glassware 才能上架官方的 MyGlass 展示区
+- 由于文化和理解上的差异，译文中难免存在纰漏，望各位提出宝贵的意见
+
+#### 关于我们
+
+我们（BestApp/BestNG）是国内第一支从事 Glass 开发的团队，致力于 Glassware 开发和 Glass 的本土化工作，同时尽可能向社区回馈我们的研究成果和新鲜好玩的本土 Glassware。
+
+更多信息请移步 [GlassX](http://www.glassx.cn/)，欢迎加入到我们的行列。
+
+- 翻译：[Jason Wu](cn.jason.wu@gmail.com)(BestNG)
+- 校对：[XiNGRZ](chenxingyu92@gmail.com)(BestNG)
+
+原文地址：https://developers.google.com/glass/distributing/checklist
+
+----------
 
 我们团队_（译注：指 Google Glass 团队）_在审核您的 Glassware 时会关心下列项目和其它因素。在提交审核前请确保您的 Glassware 符合下列所有要求，这将有助于我们团队专注于您的 Glassware 的其它部分以提高审核效率。
 
