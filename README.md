@@ -2,11 +2,13 @@ Glassware 发布规范
 ==========
 
 > #### 关于本文档
+>
 > - **Glassware** 是 Google Glass 应用的专有名词
 > - 这是 Glassware 的开发规范，只有符合规范的 Glassware 才能上架官方的 MyGlass 推荐
 > - 由于文化和理解上的差异，译文中难免存在纰漏，望各位提出宝贵的意见
 > 
 > #### 关于我们
+>
 > 我们（BestApp/BestNG）是国内第一支从事 Glassware 开发的团队，致力于 Glassware 的开发和 Glass 的本土化工作，同时尽可能向社区回馈我们的研究成果和新鲜好玩本土 Glassware。
 >
 > 更多信息请移步 [GlassX](http://www.glassx.cn/)，欢迎加入到我们的行列。
@@ -16,31 +18,35 @@ Glassware 发布规范
 >
 > 原文地址：https://developers.google.com/glass/distributing/checklist
 
-####图片样式
+## 图片素材
 
-######提供 20x20, 30x30, 40x40, 50x50, 和 150x150 像素的源图标
+### 提供 20x20 / 30x30 / 40x40 / 50x50 / 150x150 规格的来源图标
 
-Glass 会在timeline卡片上自动显示你的图标在不同的位置和大小。这让用户了解timeline卡片的来源，确保你的图标:
+Glass 会在您的时间轴卡片的不同位置以不同大小显示您的图标，一边让用户知道时间轴卡片的来源。请确保您的图标：
 
-* 代表你的品牌
-* 除了大小其他是相同的
-* 白色或者透明背景，这确保Glass正常显示图标在不同位置
-* 每个图标完全填充所要求的尺寸
+- 代表您的品牌
+- 除了大小外保持一致
+- 白色内容、透明背景，便于 Glass 在不同场景下的展示
+- 每个图标完全填满所要求的尺寸
 
-以下是Glass使用的你图标的地方
+以下是 Glass 使用您的图标的几种形式：
 
-######以你的标志色为底色的 20x20 和 40x40 图标	
-![20x20 icon](https://developers.google.com/glass/images/icons/g-20.png)
-![40x40 icon](https://developers.google.com/glass/images/icons/g-40.png)
+#### 20x40 / 40x40，以你的[标志色](#brand-color)为底色	
 
-######在timeline卡片的底部是一个30x30的图标
-![30x30 icon](https://developers.google.com/glass/images/icons/g-30.png)
+![20x20 图标](https://developers.google.com/glass/images/icons/g-20.png)
+![40x40 图标](https://developers.google.com/glass/images/icons/g-40.png)
 
-######在 "ok glass"的触摸菜单上是一个50x50的图标
-![50x50 icon](https://developers.google.com/glass/images/icons/g-50.png)
+#### 30x30，位于时间轴卡片底部
 
-######当用户激活Glassware是发送的卡片上图标是150x150
-![150x150 icon](https://developers.google.com/glass/images/icons/g-150.png)
+![30x30 图标](https://developers.google.com/glass/images/icons/g-30.png)
+
+#### 50x50，位于「ok glass」触控菜单
+
+![50x50 图标](https://developers.google.com/glass/images/icons/g-50.png)
+
+#### 150x150，用于激活 Glassware 时发送到您的用户的卡片
+
+![150x150 图标](https://developers.google.com/glass/images/icons/g-150.png)
 
 ######提供 40x40 和 85x85 像素的画廊图标
 
